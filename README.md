@@ -44,19 +44,13 @@ Byte Pair Encoding starts with individual characters and keeps merging the most 
 
 ## Background
 
-I work as a Business Process Automation Developer in Philippines. 
-I am now moving deeper into AI engineering and this repository is part of that transition.
-
-There are other projects I am building in parallel.
+Currently I am working as a Business Process Automation Developer in the Philippines, transitioning into AI Automation Engineering and this repository is part of that transition.
+My background is in Blue Prism RPA, NestJS, FastAPI, and React Native — mostly enterprise and LGU-facing systems.
 
 ---
 
 ## Notes
 
 - Code is intentionally simple and over-commented. This is a learning repo, not a production library.
-- I write analogies next to the technical concepts because that is how I learn best.
-- Commit messages follow the pattern `Add DayXX: short description` so the history reads like a journal.
 
 ---
-
-*Started June 2026. Naga City, Philippines.*
