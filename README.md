@@ -44,8 +44,8 @@ Byte Pair Encoding starts with individual characters and keeps merging the most 
 
 ## Background
 
-Currently I am working as a Business Process Automation Developer in the Philippines, transitioning into AI Automation Engineering and this repository is part of that transition.
-My background is in Blue Prism RPA, NestJS, FastAPI, and React Native — mostly enterprise and LGU-facing systems.
+Currently I am working as a Business Process Automation Developer in the Philippines, with AI Automation Engineering.
+I have been using Blue Prism  for RPA, NestJS, FastAPI, and React Native — mostly enterprise and LGU-facing systems.
 
 ---
 
